@@ -15,6 +15,7 @@
 - CSS
 - Banco de Dados/MYSQL
 - Node.js
+- React JS
   
 <br>
 <p align='center'>
