@@ -10,12 +10,12 @@
 
 ## Desenvolvedor Full Stack em formação! 🚧 Atualmente tenho experiência em: 
 - Python
-- Java
 - JavaScript
 - HTML
 - CSS
-- SpringBoot
 - Banco de Dados/MYSQL
+- Node.js
+  
 <br>
 <p align='center'>
   <a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarcosvvMarques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"></a>
